@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20",
+    "tar": "^6.1.13"
+  }
+}

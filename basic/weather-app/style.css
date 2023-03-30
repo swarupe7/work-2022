@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: url('moon.jpg');
+   
+}
+.card{
+    position:absolute;
+    left:45%;
+    top:45%;
+    margin:15px;
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
